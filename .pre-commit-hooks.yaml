@@ -1,5 +1,5 @@
 -   id: fvm-flutter-format
-    name: Format Flutter Code
+    name: Format Flutter Code with fvm
     entry: run
     language: script
     files: \.dart$
