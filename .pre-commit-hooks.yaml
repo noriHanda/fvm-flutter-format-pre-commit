@@ -1,4 +1,4 @@
--   id: flutter-format
+-   id: fvm-flutter-format
     name: Format Flutter Code
     entry: run
     language: script
